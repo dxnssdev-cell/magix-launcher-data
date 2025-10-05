@@ -1,0 +1,14 @@
+{
+  "DownloadUrl": "https://drive.google.com/uc?export=download&id=ВАШ_ID_ФАЙЛА",
+  "SampDownloadUrl": "https://drive.google.com/uc?export=download&id=ВАШ_ID_SAMP_ФАЙЛА",
+  "TelegramUrl": "https://t.me/your_channel",
+  "NewsPages": [
+    [
+      "• Добро пожаловать в Magix Launcher!",
+      "• Управление через Telegram бота",
+      "• Автоматические обновления", 
+      "• Быстрая установка",
+      "• Техническая поддержка"
+    ]
+  ]
+}
